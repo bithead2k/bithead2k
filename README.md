@@ -34,3 +34,6 @@ Anything PostgreSQL.   Really, AMA.
 [<img width="26px" src=""/>][postgresql]
 [<img width="26px" src=""/>][python]
 [<img width="26px" src=""/>][markdown]
+
+
+[bash]: [https://www.gnu.org/software/bash/]
