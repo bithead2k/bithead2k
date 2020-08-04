@@ -31,9 +31,10 @@ Anything PostgreSQL.   Really, AMA.
 ## Languages and Tools
 
 [<img width="26px" src="https://bashlogo.com/img/symbol/png/full_colored_dark.png"/>][bash]
-[<img width="26px" src=""/>][postgresql]
+[<img width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg"/>][postgresql]
 [<img width="26px" src=""/>][python]
 [<img width="26px" src=""/>][markdown]
 
 
 [bash]: [https://www.gnu.org/software/bash/]
+[postgresql]: [http://www.postgresql.org]
