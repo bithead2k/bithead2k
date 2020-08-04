@@ -14,7 +14,7 @@ In the bramble, I will have a partitioned table of sensor data.  The data will b
 I'll be using this bramble to teach PostgreSQL setup and monitoring in my courses, that I provide for 2ndQuadrant.
 
 ## 🌱 I’m currently learning
-###Python, ansible and raspberry pi things.
+Python, ansible and raspberry pi things.
 
 
 ## 🤔 I’m looking for help with and collaboration on
