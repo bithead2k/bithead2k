@@ -26,7 +26,10 @@ Anything PostgreSQL.   Really, AMA.
 
 ## 📫 How to reach me: ...
 * [Linked In](https://www.linkedin.com/in/kroybal/)
-* [My Blob Feed](https://www.2ndquadrant.com/en/blog/author/kirk-roybal/)
+
+## Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ## Languages and Tools
 
