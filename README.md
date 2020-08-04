@@ -43,6 +43,9 @@ Anything PostgreSQL.   Really, AMA.
 [<img width="26px" alt="Python" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"/>][python]
 [<img width="26px" alt="Markdown" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg"/>][markdown]
 
+## Github Stats
+<img align="left" alt="Bithead2k's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bithead2k&show_icons=true&hide_border=true" />
+
 
 [bash]: [https://www.gnu.org/software/bash/]
 [postgresql]: [http://www.postgresql.org]
