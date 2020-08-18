@@ -29,11 +29,11 @@ Anything PostgreSQL.   Really, AMA.
 
 ## Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Oracle to PostgreSQL — Cursors and Common Table Expressions](https://www.2ndquadrant.com/en/blog/oracle-to-postgresql-cursors-and-common-table-expressions/)
 - [Oracle to PostgreSQL – Binary Objects](https://www.2ndquadrant.com/en/blog/oracle-to-postgresql-binary-objects/)
 - [Oracle to PostgreSQL: Reasons to Migrate](https://www.2ndquadrant.com/en/blog/oracle-to-postgresql-reasons-to-migrate/)
 - [Oracle to PostgreSQL: Basic Architecture](https://www.2ndquadrant.com/en/blog/oracle-to-postgresql-basic-architecture/)
 - [Oracle to PostgreSQL: START WITH/CONNECT BY](https://www.2ndquadrant.com/en/blog/oracle-to-postgresql-start-with-connect-by/)
-- [Oracle to PostgreSQL:  ANSI outer join syntax in PostgreSQL](https://www.2ndquadrant.com/en/blog/oracle-to-postgresql-ansi-outer-join-syntax-in-postgresql/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Languages and Tools
