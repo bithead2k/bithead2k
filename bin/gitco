@@ -1,0 +1,10 @@
+#!/bin/bash
+
+function die() {
+	echo -e "$*"
+	exit 1
+}
+
+[[ $# == 0 ]] && die "gitco requires a comment"
+git commit -am "$*"
+git push
