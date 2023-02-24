@@ -11,7 +11,7 @@ This unit will consist of 7 raspberry pi 4 machines with 4GB each.  There will b
 
 In the bramble, I will have a partitioned table of sensor data.  The data will be provided by a sense hat attached to the controller node.
 
-I'll be using this bramble to teach PostgreSQL setup and monitoring in my courses, that I provide for 2ndQuadrant.
+I'll be using this bramble to teach PostgreSQL setup and monitoring in my courses, that I provide as a developer advocate and trainer.
 
 ## 🌱 I’m currently learning
 Python, ansible and raspberry pi things.
