@@ -29,6 +29,7 @@ Anything PostgreSQL.   Really, AMA.
 
 ## Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Fix Transaction ID Wraparound](https://www.timescale.com/blog/how-to-fix-transaction-id-wraparound/)
 - [The PostgreSQL Job Scheduler You Always Wanted &lpar;But Be Careful What You Ask For&rpar;](https://www.timescale.com/blog/the-postgresql-job-scheduler-you-always-wanted-but-be-careful-what-you-ask-for/)
 - [Read Before You Upgrade: Best Practices for Choosing Your PostgreSQL Version](https://www.timescale.com/blog/read-before-you-upgrade-best-practices-for-choosing-your-postgresql-version/)
 - [PostgreSQL Caching: The Postmaster Process](https://www.timescale.com/blog/postgresql-caching-the-postmaster-process/)
