@@ -29,11 +29,11 @@ Anything PostgreSQL.   Really, AMA.
 
 ## Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Compressing &lpar;Not So&rpar; Immutable Data: How We&#39;re Changing Time-Series Data Management](https://www.timescale.com/blog/compressing-immutable-data-changing-time-series-management/)
 - [What Does ChatGPT Know About Timescale?](https://www.timescale.com/blog/what-does-chatgpt-know-about-timescale/)
 - [Implementing ASOF Joins in PostgreSQL and Timescale](https://www.timescale.com/blog/implementing-asof-joins-in-timescale/)
 - [How to Fix Transaction ID Wraparound Exhaustion](https://www.timescale.com/blog/how-to-fix-transaction-id-wraparound/)
 - [The PostgreSQL Job Scheduler You Always Wanted &lpar;But Be Careful What You Ask For&rpar;](https://www.timescale.com/blog/the-postgresql-job-scheduler-you-always-wanted-but-be-careful-what-you-ask-for/)
-- [Read Before You Upgrade: Best Practices for Choosing Your PostgreSQL Version](https://www.timescale.com/blog/read-before-you-upgrade-best-practices-for-choosing-your-postgresql-version/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Languages and Tools
