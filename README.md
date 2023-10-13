@@ -33,7 +33,7 @@ Anything PostgreSQL.   Really, AMA.
 - [What Does ChatGPT Know About Timescale?](https://www.timescale.com/blog/what-does-chatgpt-know-about-timescale/)
 - [Implementing ASOF Joins in PostgreSQL and Timescale](https://www.timescale.com/blog/implementing-asof-joins-in-timescale/)
 - [How to Fix Transaction ID Wraparound Exhaustion](https://www.timescale.com/blog/how-to-fix-transaction-id-wraparound/)
-- [The PostgreSQL Job Scheduler You Always Wanted &lpar;But Be Careful What You Ask For&rpar;](https://www.timescale.com/blog/the-postgresql-job-scheduler-you-always-wanted-but-be-careful-what-you-ask-for/)
+- [The PostgreSQL Job Scheduler You Always Wanted &lpar;Use it With Caution&rpar;](https://www.timescale.com/blog/the-postgresql-job-scheduler-you-always-wanted-but-be-careful-what-you-ask-for/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Languages and Tools
