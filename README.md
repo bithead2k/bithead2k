@@ -29,11 +29,11 @@ Anything PostgreSQL.   Really, AMA.
 
 ## Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Allowing DML Operations in Highly Compressed Time-Series Data in PostgreSQL](https://www.timescale.com/blog/allowing-dml-operations-in-highly-compressed-time-series-data-in-postgresql/)
-- [What Does ChatGPT Know About Timescale?](https://www.timescale.com/blog/what-does-chatgpt-know-about-timescale/)
-- [Implementing ASOF Joins in PostgreSQL and Timescale](https://www.timescale.com/blog/implementing-asof-joins-in-timescale/)
-- [How to Fix Transaction ID Wraparound Exhaustion](https://www.timescale.com/blog/how-to-fix-transaction-id-wraparound/)
-- [The PostgreSQL Job Scheduler You Always Wanted &lpar;Use it With Caution&rpar;](https://www.timescale.com/blog/the-postgresql-job-scheduler-you-always-wanted-but-be-careful-what-you-ask-for/)
+- [Allowing DML Operations in Highly Compressed Time-Series Data in PostgreSQL](https://www.timescale.com/blog/allowing-dml-operations-in-highly-compressed-time-series-data-in-postgresql)
+- [What Does ChatGPT Know About Timescale?](https://www.timescale.com/blog/what-does-chatgpt-know-about-timescale)
+- [Implementing ASOF Joins in PostgreSQL and Timescale](https://www.timescale.com/blog/implementing-asof-joins-in-timescale)
+- [How to Fix Transaction ID Wraparound Exhaustion](https://www.timescale.com/blog/how-to-fix-transaction-id-wraparound)
+- [The PostgreSQL Job Scheduler You Always Wanted &lpar;Use it With Caution&rpar;](https://www.timescale.com/blog/the-postgresql-job-scheduler-you-always-wanted-but-be-careful-what-you-ask-for)
 <!-- BLOG-POST-LIST:END -->
 
 ## Languages and Tools
