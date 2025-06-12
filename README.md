@@ -29,11 +29,11 @@ Anything PostgreSQL.   Really, AMA.
 
 ## Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Allowing DML Operations in Highly Compressed Time-Series Data in PostgreSQL](https://www.tigerdata.com/blog/allowing-dml-operations-in-highly-compressed-time-series-data-in-postgresql)
-- [Implementing ASOF Joins in PostgreSQL and Timescale](https://www.tigerdata.com/blog/implementing-asof-joins-in-timescale)
-- [How to Fix Transaction ID Wraparound Exhaustion](https://www.tigerdata.com/blog/how-to-fix-transaction-id-wraparound)
-- [The PostgreSQL Job Scheduler You Always Wanted &lpar;Use it With Caution&rpar;](https://www.tigerdata.com/blog/the-postgresql-job-scheduler-you-always-wanted-but-be-careful-what-you-ask-for)
-- [Read Before You Upgrade: Best Practices for Choosing Your PostgreSQL Version](https://www.tigerdata.com/blog/read-before-you-upgrade-best-practices-for-choosing-your-postgresql-version)
+- [Allowing DML Operations in Highly Compressed Time-Series Data in PostgreSQL](https://www.timescale.com/blog/allowing-dml-operations-in-highly-compressed-time-series-data-in-postgresql)
+- [Implementing ASOF Joins in PostgreSQL and Timescale](https://www.timescale.com/blog/implementing-asof-joins-in-timescale)
+- [How to Fix Transaction ID Wraparound Exhaustion](https://www.timescale.com/blog/how-to-fix-transaction-id-wraparound)
+- [The PostgreSQL Job Scheduler You Always Wanted &lpar;Use it With Caution&rpar;](https://www.timescale.com/blog/the-postgresql-job-scheduler-you-always-wanted-but-be-careful-what-you-ask-for)
+- [Read Before You Upgrade: Best Practices for Choosing Your PostgreSQL Version](https://www.timescale.com/blog/read-before-you-upgrade-best-practices-for-choosing-your-postgresql-version)
 <!-- BLOG-POST-LIST:END -->
 
 ## Languages and Tools
